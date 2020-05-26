@@ -315,7 +315,8 @@ A webhook will be triggered and push the new package on [Packagist](https://pack
 
 ## 🤖 Compatibility with MeiliSearch
 
-This package works for MeiliSearch `>=v0.10`.
+This package is compatible with these versions of MeiliSearch:
+- `v0.10.X`
 
 <hr>
 
